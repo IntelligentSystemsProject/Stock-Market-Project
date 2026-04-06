@@ -1,0 +1,12 @@
+SVR Model Performance Metrics (Fixed Version)
+==================================================
+Training MAE: $0.74
+Training RMSE: $1.45
+Training R²: 0.1249
+
+Testing MAE: $1380537312.79
+Testing RMSE: $4384933189.62
+Testing R²: -11801075614314120.0000
+
+Window Size: 10
+SVR Parameters: kernel=rbf, C=100, epsilon=0.01
