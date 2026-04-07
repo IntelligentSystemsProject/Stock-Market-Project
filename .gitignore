@@ -1,3 +1,10 @@
+cleaned_df.csv
+X_train.npy
+X_test.npy
+y_train.npy
+y_test.npy
+svr_metrics_fixed.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
